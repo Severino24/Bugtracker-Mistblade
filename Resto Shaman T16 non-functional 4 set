@@ -1,0 +1,5 @@
+"On the Shaman T16 set, the 4-piece bonus scales incorrectly with healing power."
+
+"On the Shaman Tier 16 set, the 4-piece bonus doesn't scale properly with healing power. The effect ‘Spiritwalker's Grace will also summon a spiritual version of yourself that will mimic all cast-time targeted healing spells for 15 seconds’ is not gaining the correct benefit from spell power."
+
+"During testing, the spiritual clone heals for significantly less than the player. For example, I heal for around 70k, while the clone only heals for about 12k. Additionally, when using Chain Heal, the clone seems to target different players, but its healing does not appear in the logs, so it's hard to tell whether it actually heals at all."
